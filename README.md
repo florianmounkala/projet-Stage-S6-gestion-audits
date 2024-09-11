@@ -1,7 +1,7 @@
 # projet-Stage-S6-gestion-audits
 Application de gestion d'audit en .NET core
 
-VERSION FONCTIONNELLE : 4.6
+VERSION FONCTIONNELLE : 4.7
 
 VERSION EN BETA (intégration docker donc encore en phase de test merci de ne pas l'utiliser) : 4.6.1
 
